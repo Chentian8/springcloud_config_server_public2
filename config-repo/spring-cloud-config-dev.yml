@@ -1,2 +1,2 @@
-spring:
-  web: 45866.com
+config:
+  hello: 45866.com
