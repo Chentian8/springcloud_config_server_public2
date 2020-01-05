@@ -1,0 +1,2 @@
+# springcloud_config_server_public2
+配置中心公库2
